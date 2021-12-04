@@ -1,2 +1,2 @@
 # LittleCoding
-My little project
+初来乍到，这里只是存放一些日常上的代码，或者练习之类的小东西
